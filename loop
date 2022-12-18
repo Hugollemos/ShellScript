@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+
+for fn in *; do
+	echo "$fn"
+done
+           
